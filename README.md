@@ -1,0 +1,2 @@
+- 🏆 Game / simulation programmer and designer
+- 🏫 Student at Purdue University, Bachelor of Computer Science, expected 2024
