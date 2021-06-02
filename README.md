@@ -12,5 +12,5 @@
         <li><h3><a href="https://github.com/jbounds101/Monopoly">Monopoly</a> created in C++</h3>
     </ul>
 - <h2> Other Projects :<br> </h2>
-    <li><h3><a href="https://github.com/jbounds101/Kingdom">A* Pathfinding Demo</a> created in Python</h3>
+    <li><h3><a href="https://github.com/jbounds101/AStar-PathFinding">A* Pathfinding Demo</a> created in Python</h3>
     
