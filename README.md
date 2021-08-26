@@ -3,7 +3,7 @@
 - 🏫 Student at Purdue University, Bachelor of Computer Science, May 2024 <br>
 - 🧠 Experience in C++, Java, C,  Python, GML (GameMaker Language), HTML, and Visual Basic
 
-- <h2> Finished Games:<br> </h2>
+- <h2> Showcased Finished Games:<br> </h2>
     <ul>
         <li><h3><a href="https://github.com/jbounds101/Kingdom">Kingdom</a> created in GML</h3>
             &nbsp; Demo Video: https://youtu.be/Dp8Q14VbbV4 <br>
