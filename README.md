@@ -12,6 +12,10 @@
          <li><h3><a href="https://github.com/jbounds101/BiggityBeat">Biggity Beat</a> created in GML</h3>
              &nbsp; Demo Video: https://youtu.be/sORUaPyq-XE <br>
         <li><h3><a href="https://github.com/jbounds101/Monopoly">Monopoly</a> created in C++</h3>
+            &nbsp; <img src="https://user-images.githubusercontent.com/70382763/120476077-2b026080-c378-11eb-8a45-71b34f7e103f.png" width="480" height="480"/>
+            
+           
+            
     </ul>
 - <h2> Other Projects :<br> </h2>
     <ul>
