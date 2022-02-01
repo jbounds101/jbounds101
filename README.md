@@ -1,7 +1,8 @@
 <h1> About Me </h1>
 - 🏆 Game / simulation programmer and designer <br>
 - 🏫 Student at Purdue University, Bachelor of Computer Science, May 2024 <br>
-- 🧠 Experience in C++, Java, C,  Python, GML (GameMaker Language), HTML, and Visual Basic
+- 🧠 Experience in C++, Java, C,  Python, GML (GameMaker Language), HTML, and Visual Basic <br>
+- ☁️ Note: many of my school projects are private due to class policies
 
 - <h2> Showcased Finished Games:<br> </h2>
     <ul>
