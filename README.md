@@ -5,8 +5,8 @@
 - ☁️ Note: many of my school projects are private due to class policies
 
 
-- <h2> Current Project: <a href="https://github.com/jbounds101/PythonExperimentalLearning">Independently studying/learning Python!</a></h2>
-    <img src="https://user-images.githubusercontent.com/70382763/155912080-434b706c-9d3c-4786-a047-1e094c830471.png" width="100" height="100"/>
+- <h2> Current Project: <a href="https://github.com/jbounds101/SudokuSolver">Sudoku Solve by Photo</a></h2>
+    <img src="https://user-images.githubusercontent.com/70382763/160744913-51fef22b-1d08-415d-94f5-45649498c00d.png" width="160" height="160"/>
                                                                                                                                        
 - <h2> Showcased Projects:<br> </h2>
     <ul>  
