@@ -1,5 +1,5 @@
 <h1> About Me </h1>
-- 🏆 Student & hobby programmer <br>
+- 🏆 Student & Hobby Programmer <br>
 - 🏫 Student at Purdue University, Bachelor of Computer Science, Minor in Mathematics & Philosophy, May 2024 <br>
 - 🧠 Experience in Java, Python, C++, C, GML (GameMaker Language), HTML & CSS, and Visual Basic <br>
 - ☁️ Note: many of my school projects are private due to class policies
