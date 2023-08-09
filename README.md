@@ -6,7 +6,7 @@
 <br><br>
 
 <h1>
-  <a href="https://github.com/jbounds101/Kingdom">Kingdom</a> | my first major project
+  <a href="https://github.com/jbounds101/Kingdom">Kingdom</a> | my first major programming project
 </h1>
 
 <img src="https://github.com/jbounds101/jbounds101/assets/70382763/2da3b8d2-dfa3-4ef9-a0a6-4edfc61545d5)" alt="Gameplay of my game, Kingdom" />
