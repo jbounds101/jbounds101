@@ -4,10 +4,9 @@
 - 🧠 Experience in C#, Java, Python, C++, C, GML (GameMaker Language), and HTML & CSS <br>
 - ☁️ Note: many of my school projects are private due to class policies
 <a href="https://wakatime.com/@c5a09c1a-4d73-4f84-b681-2459790f9e75">
-<br>
-  <img src="https://wakatime.com/badge/user/c5a09c1a-4d73-4f84-b681-2459790f9e75.svg" alt="Total time coded since Jan 27 2022" /></a>
 <br><br>
-
+  <img src="https://wakatime.com/badge/user/c5a09c1a-4d73-4f84-b681-2459790f9e75.svg" alt="Total time coded since Jan 27 2022" /></a>
+<br>
 <h1>
   <a href="https://github.com/jbounds101/Kingdom">Kingdom</a> | my first major programming project
 </h1>
