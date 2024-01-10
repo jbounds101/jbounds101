@@ -1,6 +1,6 @@
 <h1> About Me </h1>
 - 🏆 Student & Hobby Programmer <br>
-- 🏫 Student at Purdue University, Bachelor of Computer Science, Minor in Mathematics & Philosophy, May 2024 <br>
+- 🏫 Student at Purdue University, Bachelor of Computer Science, Minor in Philosophy, May 2024 <br>
 - 🧠 Experience in C#, Java, Python, C++, C, GML (GameMaker Language), and HTML & CSS <br>
 - ☁️ Note: many of my school projects are private due to class policies <br>
 - 💬 Feel free to reach out to me on <a href="https://www.linkedin.com/in/jackson-bounds/">LinkedIn!</a>
