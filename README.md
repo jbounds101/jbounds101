@@ -7,6 +7,7 @@
 <a href="https://wakatime.com/@c5a09c1a-4d73-4f84-b681-2459790f9e75">
 <br><br>
   <img src="https://wakatime.com/badge/user/c5a09c1a-4d73-4f84-b681-2459790f9e75.svg" alt="Total time coded since Jan 27 2022" /></a>
+  This timer isn't the most accurate (I always forget to re-enable to extension), but it sure is fun to look at!
 <br>
 <h1>
   <a href="https://github.com/jbounds101/Kingdom">Kingdom</a> | my first major programming project
